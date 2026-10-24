@@ -1,0 +1,22 @@
+# Временные файлы Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Секреты и локальные настройки
+.env
+
+# Журналы и временные файлы
+*.log
+*.tmp
+
+# Файлы редакторов и ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
